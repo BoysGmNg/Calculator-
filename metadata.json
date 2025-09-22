@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Universal Calculator",
+  "description": "A sleek, modern calculator powered by Gemini. It handles everything from simple arithmetic to complex queries like currency conversions, unit conversions, and general knowledge questions, providing instant and accurate answers.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
